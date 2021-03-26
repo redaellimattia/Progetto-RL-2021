@@ -1,5 +1,6 @@
 # Prova Finale di reti logiche 2021.
 La relazione dettagliata é consultabile [qui](/Doc/relazione.pdf).  
+Il codice é consultabile [qui](/Code_And_Tests/project_reti_logiche.vhd).  
 ## Presentazione del progetto
 L’obiettivo del progetto è quello di scrivere un programma VHDL che simuli il comportamento di una rete logica capace di equalizzare l’istogramma di immagini in toni di grigio, ovvero **ricalibrare il contrasto**.
 <p align="center">
@@ -29,5 +30,3 @@ Le singole immagini dei risultati dei test sono consultabili [qui](/Code_And_Tes
 ## Conclusione
 In conclusione, il risultato del lavoro é un componente sintetizzabile e correttamente simulabile in post-sintesi, con un totale di **305 Look Up Tables** (copertura del 0.23%) e un totale di **145 Flip Flop** (copertura del 0.05%).  
 La macchina a stati finiti composta da 12 stati, si ritiene esegua correttamente l’implementazione dell’algoritmo descritto nelle specifiche, avendo passato i casi di test limite e la computazione di decina di migliaia di immagini in sequenza.
-
-Il codice é consultabile [qui](/Code_And_Tests/project_reti_logiche.vhd).
