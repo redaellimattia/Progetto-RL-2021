@@ -2,9 +2,8 @@
 ## Presentazione del progetto
 L’obiettivo del progetto è quello di scrivere un programma VHDL che simuli il comportamento di una rete logica capace di equalizzare l’istogramma di immagini in toni di grigio, ovvero ricalibrare il contrasto.
 <p align="center">
-  <img width="600" height="200" src="/Doc/img/esempio.png">
+  <img width="600" height="300" src="/Doc/img/esempio.png">
 </p>
-![alt text](/Doc/img/esempio.png)
 ## Scelte progettuali
 Si è scelto di implementare la macchina sopra descritta utilizzando un’architettura di tipo behavioural composta di un solo processo.  
 Ad ogni ciclo di clock il segnale **CURR_S** determina lo stato di esecuzione corrente in base all’assegnamento eseguito al ciclo di clock precedente. Tutti i segnali vengono aggiornati in questo modo e ciò ha reso necessario l’inserimento di due stati adibiti alla semplice attesa affinchè i segnali possano aggiornarsi correttamente (WAIT_UPDATE, WAIT_READ).
