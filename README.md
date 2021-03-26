@@ -1,4 +1,5 @@
 # Prova Finale di reti logiche 2021.
+La relazione dettagliata é consultabile [qui](/Doc/relazione.pdf).  
 ## Presentazione del progetto
 L’obiettivo del progetto è quello di scrivere un programma VHDL che simuli il comportamento di una rete logica capace di equalizzare l’istogramma di immagini in toni di grigio, ovvero **ricalibrare il contrasto**.
 <p align="center">
