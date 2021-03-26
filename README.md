@@ -18,7 +18,7 @@ sia superiore a 255 (in quel caso viene utilizzato 255), oppure si utilizza temp
 down to 0).
 
 ## Testing
-Il componente ha passato diversi casi di test descritti dettagliatamente [qui](/Relazione.pdf).
+Il componente ha passato diversi casi di test descritti dettagliatamente [qui](/Doc/relazione.pdf).
 ## Conclusione
 In conclusione, il risultato del lavoro é un componente sintetizzabile e correttamente simulabile in post-sintesi, con un totale di 305 Look Up Tables (copertura del 0.23%) e un totale di 145 Flip Flop (copertura del 0.05%).  
 La macchina a stati finiti composta da 12 stati, si ritiene esegua correttamente l’implementazione dell’algoritmo descritto nelle specifiche, avendo passato i casi di test limite e la computazione di decina di migliaia di immagini in sequenza.
