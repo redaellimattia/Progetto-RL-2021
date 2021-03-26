@@ -21,6 +21,7 @@ down to 0).
 
 ## Testing
 Il componente ha passato diversi casi di test descritti dettagliatamente [qui](/Doc/relazione.pdf).
+Le singole immagini dei risultati dei test sono consultabili [qui](/Code_And_Tests/Tests).
 
 ## Conclusione
 In conclusione, il risultato del lavoro é un componente sintetizzabile e correttamente simulabile in post-sintesi, con un totale di 305 Look Up Tables (copertura del 0.23%) e un totale di 145 Flip Flop (copertura del 0.05%).  
