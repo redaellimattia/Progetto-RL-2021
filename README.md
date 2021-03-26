@@ -20,7 +20,7 @@ sia superiore a 255 (in quel caso viene utilizzato 255), oppure si utilizza temp
 down to 0).
 
 ## Testing
-Il componente ha passato diversi casi di test descritti dettagliatamente [qui](/Doc/relazione.pdf).
+Il componente ha passato diversi casi di test descritti dettagliatamente [qui](/Doc/relazione.pdf).  
 Le singole immagini dei risultati dei test sono consultabili [qui](/Code_And_Tests/Tests).
 
 ## Conclusione
