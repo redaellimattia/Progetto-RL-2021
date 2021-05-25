@@ -2,7 +2,7 @@
 La relazione dettagliata é consultabile [qui](/Doc/relazione.pdf).  
 Il codice é consultabile [qui](/Code_And_Tests/project_reti_logiche.vhd).
 ## Autori
-[Redaelli Mattia](https://github.com/redaellimattia)
+[Redaelli Mattia](https://github.com/redaellimattia)  
 [Gabriele Rivi](https://github.com/GabrieleRivi)
 
 ## Presentazione del progetto
